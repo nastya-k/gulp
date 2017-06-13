@@ -1,0 +1,9 @@
+@import '../libs/magnific-popup/dist/magnific-popup';
+    
+body {
+    background: green;
+    color: red;
+    & nav.mobile {
+        display: none;
+    }
+}
